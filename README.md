@@ -1,5 +1,4 @@
-# 碩士論文
-# 應用機器學習模型於食物設計之色彩辨識預測消費者偏好實務研究
+# 碩士論文-應用機器學習模型於食物設計之色彩辨識預測消費者偏好實務研究
 # A Practical Study on Predicting Consumer Preference in Color Recognition Using Machine Learning Models in Food Design-Taking Google Map Evaluation as an Example
 
 食物設計是自1997年開始自設計界萌芽的新興領域，米蘭工業設計學院(Scuola Politecnica di Design)在2015年正式推出食物設計碩士學位(Master in Food Design)。人類知覺體驗的相關探討涵蓋了視、嗅、聽、觸、味等知覺的體驗，長期以來一直受到各領域專家學者所關注，這當中又以視覺的色彩體驗引發最多的研究與探索。
